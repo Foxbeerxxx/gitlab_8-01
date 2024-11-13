@@ -87,3 +87,6 @@
 ### Задание 2
 `После создания .gitignore проверил его статус git status  - результат:`
 ![Скриншот 3](https://github.com/Foxbeerxxx/gitlab_8-01/blob/main/img/2.png)`
+### Задание 3
+`Итог:`
+![Скриншот 3](https://github.com/Foxbeerxxx/gitlab_8-01/blob/main/img/3.png)
